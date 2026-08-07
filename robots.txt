@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ZisteN17.github.io/readme-4bk0qz/sitemap.xml
